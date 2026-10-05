@@ -1,0 +1,49 @@
+name: Update Game Exhibition Dataset
+
+on:
+  schedule:
+    # Run once every month on the 1st at 03:00 UTC
+    - cron: '0 3 1 * *'
+  workflow_dispatch: # Allow manual triggering anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-dataset:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Data Generator Pipeline
+        run: |
+          python scripts/generate_data.py --live
+
+      - name: Validate Generated Dataset Quality
+        run: |
+          python scripts/validate_data.py
+
+      - name: Detect Changes and Commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Dataset Bot"
+          git add data/ public/data/
+          if git diff --staged --quiet; then
+            echo "No dataset changes detected. Skipping commit."
+          else
+            git commit -m "Automated update: enrich video game exhibition dataset [skip ci]"
+            git push
+          fi

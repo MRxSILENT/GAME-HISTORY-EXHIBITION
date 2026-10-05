@@ -1,0 +1,2301 @@
+[
+  {
+    "id": "Q2631916",
+    "title": "Bertie the Brain",
+    "alternateTitles": [
+      "Bertie"
+    ],
+    "releaseDate": "1950-08-25",
+    "releaseYear": 1950,
+    "earliestReleaseDate": "1950-08-25",
+    "releaseHistory": [
+      {
+        "label": "Original Exhibition Premiere",
+        "date": "1950-08-25",
+        "region": "Canada",
+        "platform": "Custom Vacuum Tube Computer",
+        "type": "original"
+      }
+    ],
+    "developer": "Josef Kates",
+    "publisher": "Rogers Majestic",
+    "developers": [
+      "Josef Kates"
+    ],
+    "publishers": [
+      "Rogers Majestic"
+    ],
+    "platforms": [
+      "Custom Mainframe"
+    ],
+    "genres": [
+      "Puzzle",
+      "Artificial Intelligence",
+      "Simulation"
+    ],
+    "franchises": [],
+    "series": [],
+    "country": "Canada",
+    "description": "A 4-meter tall custom-built computer built to showcase the miniature Additron tube at the Canadian National Exhibition. Players played Tic-tac-toe against an artificial intelligence with adjustable difficulty.",
+    "historicalSignificance": "Widely recognized as one of the very first computer games in history, built over seven decades ago to demonstrate electronic vacuum tube computation.",
+    "developmentContext": "Engineered by Josef Kates in Toronto using novel Additron vacuum tubes. After the two-week exhibition, the machine was dismantled and largely forgotten until modern computer historians uncovered its patent documentation.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bertie_the_Brain",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q2631916",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/Bertie_the_Brain_-_Life.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "The Canadian National Exhibition Archives / Public Domain",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q2631916",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bertie_the_Brain",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/b/b4/Bertie_the_Brain_-_Life.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "curated",
+    "relatedGameIds": [
+      "Q1064273",
+      "Q240683"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q1064273",
+    "title": "Nimrod",
+    "alternateTitles": [
+      "Ferranti Nimrod"
+    ],
+    "releaseDate": "1951-05-05",
+    "releaseYear": 1951,
+    "earliestReleaseDate": "1951-05-05",
+    "releaseHistory": [
+      {
+        "label": "Festival of Britain Exhibition",
+        "date": "1951-05-05",
+        "region": "United Kingdom",
+        "platform": "Ferranti Custom Computer",
+        "type": "original"
+      },
+      {
+        "label": "Berlin Industrial Show",
+        "date": "1951-10-01",
+        "region": "Germany",
+        "platform": "Ferranti Custom Computer",
+        "type": "regional"
+      }
+    ],
+    "developer": "John Makepeace Bennett",
+    "publisher": "Ferranti",
+    "developers": [
+      "John Makepeace Bennett",
+      "Raymond Stuart-Williams"
+    ],
+    "publishers": [
+      "Ferranti"
+    ],
+    "platforms": [
+      "Ferranti Custom Mainframe"
+    ],
+    "genres": [
+      "Strategy",
+      "Mathematical Game"
+    ],
+    "franchises": [],
+    "series": [],
+    "country": "United Kingdom",
+    "description": "Constructed by British electrical engineering firm Ferranti, Nimrod was a twelve-foot wide computer explicitly designed solely to play the ancient mathematical game of Nim against human opponents.",
+    "historicalSignificance": "The first computer built specifically to play an electronic game, demonstrating Britain's pioneering post-war computer science prowess to the general public.",
+    "developmentContext": "Designed by John Makepeace Bennett to illustrate computer processing logic rather than purely for entertainment; spectators were amazed by its ability to reliably outthink human players.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nimrod_(computing)",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1064273",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nimrod_computer.jpg/640px-Nimrod_computer.jpg",
+    "imageCredit": "Ferranti / Festival of Britain / Wikimedia Commons",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q1064273",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nimrod_(computing)",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nimrod_computer.jpg/640px-Nimrod_computer.jpg"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "curated",
+    "relatedGameIds": [
+      "Q2631916",
+      "Q240683"
+    ],
+    "featured": false
+  },
+  {
+    "id": "Q240683",
+    "title": "Tennis for Two",
+    "alternateTitles": [
+      "Computer Tennis"
+    ],
+    "releaseDate": "1958-10-18",
+    "releaseYear": 1958,
+    "earliestReleaseDate": "1958-10-18",
+    "releaseHistory": [
+      {
+        "label": "Brookhaven National Laboratory Visitors' Day",
+        "date": "1958-10-18",
+        "region": "United States",
+        "platform": "Donner Model 30 Analog Computer / Oscilloscope",
+        "type": "original"
+      }
+    ],
+    "developer": "William Higinbotham",
+    "publisher": "Brookhaven National Laboratory",
+    "developers": [
+      "William Higinbotham",
+      "Robert V. Dvorak"
+    ],
+    "publishers": [
+      "Brookhaven National Laboratory"
+    ],
+    "platforms": [
+      "Oscilloscope",
+      "Analog Computer"
+    ],
+    "genres": [
+      "Sports",
+      "Tennis Simulation"
+    ],
+    "franchises": [],
+    "series": [],
+    "country": "United States",
+    "description": "Simulated a side-view game of tennis on the screen of an oscilloscope. Two players used aluminum controllers with dials to angle shots and buttons to hit the ball over a simulated net with realistic gravity.",
+    "historicalSignificance": "Considered the first video game designed purely for player entertainment and recreation rather than scientific demonstration.",
+    "developmentContext": "Higinbotham, who had worked on the Manhattan Project's radar systems, felt scientific visitor days were too dull and created the game in three weeks using analog operational amplifiers to simulate wind resistance and gravity bounce.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tennis_for_Two",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q240683",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tennis_For_Two_on_a_DuMont_Lab_Oscilloscope_Type_304-A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Brookhaven National Laboratory / Public Domain",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q240683",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tennis_for_Two",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tennis_For_Two_on_a_DuMont_Lab_Oscilloscope_Type_304-A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "curated",
+    "relatedGameIds": [
+      "Q2631916",
+      "Q234479",
+      "Q216293"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q234479",
+    "title": "Spacewar!",
+    "alternateTitles": [
+      "Spacewar"
+    ],
+    "releaseDate": "1962-02-14",
+    "releaseYear": 1962,
+    "earliestReleaseDate": "1962-02-14",
+    "releaseHistory": [
+      {
+        "label": "MIT Science Open House",
+        "date": "1962-02-14",
+        "region": "United States",
+        "platform": "DEC PDP-1",
+        "type": "original"
+      }
+    ],
+    "developer": "Steve Russell",
+    "publisher": "DEC / MIT",
+    "developers": [
+      "Steve Russell",
+      "Martin Graetz",
+      "Wayne Wiitanen",
+      "Peter Samson",
+      "Dan Edwards"
+    ],
+    "publishers": [
+      "DEC / MIT"
+    ],
+    "platforms": [
+      "DEC PDP-1"
+    ],
+    "genres": [
+      "Space Combat",
+      "Action",
+      "Shooter"
+    ],
+    "franchises": [],
+    "series": [],
+    "country": "United States",
+    "description": "Two armed spacecraft, 'the needle' and 'the wedge', engage in dogfights maneuvering within the gravitational well of a central star while firing torpedoes and utilizing hyperspace jumps.",
+    "historicalSignificance": "The first digital computer game ported across multiple university computer networks, inspiring the founders of Atari and inaugurating the hacker culture.",
+    "developmentContext": "Created by members of MIT's Model Railroad Club to push the limits of the newly installed Digital Equipment Corporation PDP-1 minicomputer with its Type 30 CRT display.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Spacewar!",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q234479",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Spacewar%21-PDP-1-20070512.jpg/3840px-Spacewar%21-PDP-1-20070512.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "Joi Ito / CC BY 2.0 via Wikimedia Commons",
+    "imageLicense": "CC BY 2.0",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q234479",
+      "wikipedia": "https://en.wikipedia.org/wiki/Spacewar!",
+      "wikimediaCommons": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Spacewar%21-PDP-1-20070512.jpg/3840px-Spacewar%21-PDP-1-20070512.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q1122268",
+      "Q216293",
+      "Q725654"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q1122268",
+    "title": "Computer Space",
+    "alternateTitles": [],
+    "releaseDate": "1971-11-01",
+    "releaseYear": 1971,
+    "earliestReleaseDate": "1971-11-01",
+    "releaseHistory": [
+      {
+        "label": "Commercial Arcade Release",
+        "date": "1971-11-01",
+        "region": "North America",
+        "platform": "Arcade (Custom TTL)",
+        "type": "original"
+      }
+    ],
+    "developer": "Nolan Bushnell",
+    "publisher": "Nutting Associates",
+    "developers": [
+      "Nolan Bushnell",
+      "Ted Dabney"
+    ],
+    "publishers": [
+      "Nutting Associates"
+    ],
+    "platforms": [
+      "Arcade"
+    ],
+    "genres": [
+      "Space Combat",
+      "Action",
+      "Multidirectional Shooter"
+    ],
+    "franchises": [],
+    "series": [],
+    "country": "United States",
+    "description": "Enclosed in a flamboyant fiberglass futuristic cabinet, Computer Space tasked the player with piloting a rocket while avoiding enemy flying saucers firing missiles.",
+    "historicalSignificance": "The world's very first commercially sold coin-operated video arcade machine, leading directly to the founding of Atari.",
+    "developmentContext": "Nolan Bushnell and Ted Dabney realized mainframe computers were far too expensive for commercial coin-op, so they invented dedicated state-machine hardware using discrete TTL logic chips to drive a standard black-and-white television set.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Computer_Space",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1122268",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nutting_ComputerSpace-Blue.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Flckr user / CC BY 2.0 via Wikimedia Commons",
+    "imageLicense": "CC BY 2.0",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q1122268",
+      "wikipedia": "https://en.wikipedia.org/wiki/Computer_Space",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nutting_ComputerSpace-Blue.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q234479",
+      "Q216293"
+    ],
+    "featured": false
+  },
+  {
+    "id": "Q216293",
+    "title": "Pong",
+    "alternateTitles": [
+      "Atari Pong"
+    ],
+    "releaseDate": "1972-11-29",
+    "releaseYear": 1972,
+    "earliestReleaseDate": "1972-11-29",
+    "releaseHistory": [
+      {
+        "label": "Original Arcade Test (Andy Capp's Tavern)",
+        "date": "1972-11-29",
+        "region": "North America",
+        "platform": "Arcade",
+        "type": "original"
+      },
+      {
+        "label": "Home Pong Dedicated Console (Sears)",
+        "date": "1975-12-01",
+        "region": "North America",
+        "platform": "Home Pong",
+        "type": "port"
+      }
+    ],
+    "developer": "Allan Alcorn",
+    "publisher": "Atari, Inc.",
+    "developers": [
+      "Allan Alcorn"
+    ],
+    "publishers": [
+      "Atari, Inc."
+    ],
+    "platforms": [
+      "Arcade",
+      "Dedicated Consoles"
+    ],
+    "genres": [
+      "Sports",
+      "Table Tennis"
+    ],
+    "franchises": [
+      "Pong"
+    ],
+    "series": [],
+    "country": "United States",
+    "description": "A two-dimensional table tennis simulation where players deflect a pixel ball back and forth using rotary knobs. The ball sped up with successive volleys.",
+    "historicalSignificance": "The first commercially successful video game in history. Pong catalyzed the coin-op arcade industry and made video games a mainstream commercial phenomenon.",
+    "developmentContext": "Bushnell assigned Pong to newly hired engineer Al Alcorn as a warm-up training exercise. The prototype installed in Andy Capp's Tavern in Sunnyvale broke down because its coin box overflowed with quarters.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pong",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q216293",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Signed_Pong_Cabinet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Atari / Wikimedia Commons",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q216293",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pong",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/commons/3/32/Signed_Pong_Cabinet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q1122268",
+      "Q725654",
+      "Q52815"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q725654",
+    "title": "Space Invaders",
+    "alternateTitles": [
+      "スペースインベーダー"
+    ],
+    "releaseDate": "1978-06-19",
+    "releaseYear": 1978,
+    "earliestReleaseDate": "1978-06-19",
+    "releaseHistory": [
+      {
+        "label": "Original Arcade Release",
+        "date": "1978-06-19",
+        "region": "Japan",
+        "platform": "Arcade",
+        "type": "original"
+      },
+      {
+        "label": "North American Midway Arcade",
+        "date": "1978-10-01",
+        "region": "North America",
+        "platform": "Arcade",
+        "type": "regional"
+      },
+      {
+        "label": "Atari 2600 System-Seller Port",
+        "date": "1980-03-01",
+        "region": "Worldwide",
+        "platform": "Atari 2600",
+        "type": "port"
+      }
+    ],
+    "developer": "Tomohiro Nishikado",
+    "publisher": "Taito",
+    "developers": [
+      "Tomohiro Nishikado"
+    ],
+    "publishers": [
+      "Taito",
+      "Midway Games",
+      "Atari"
+    ],
+    "platforms": [
+      "Arcade",
+      "Atari 2600",
+      "Various"
+    ],
+    "genres": [
+      "Shoot 'em up",
+      "Fixed Shooter"
+    ],
+    "franchises": [
+      "Space Invaders"
+    ],
+    "series": [],
+    "country": "Japan",
+    "description": "Defend the planet against rows of descending extraterrestrial invaders marching left to right while firing laser cannons. The musical heartbeat accelerated as invaders were eliminated.",
+    "historicalSignificance": "Created the shoot 'em up genre, introduced the first dynamic accelerating musical score, and quadrupled Atari 2600 hardware sales as the first killer app.",
+    "developmentContext": "Nishikado custom-designed the arcade hardware using an Intel 8080 CPU. The game's accelerating tempo was actually an unintended hardware artifact: fewer sprites on screen allowed the processor to render frames faster.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Space_Invaders",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q725654",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/Space_Invaders_flyer%2C_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Taito / Public Domain via Wikimedia Commons",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q725654",
+      "wikipedia": "https://en.wikipedia.org/wiki/Space_Invaders",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/0/0f/Space_Invaders_flyer%2C_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q216293",
+      "Q52815",
+      "Q234479"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q52815",
+    "title": "Pac-Man",
+    "alternateTitles": [
+      "Puck Man",
+      "パックマン"
+    ],
+    "releaseDate": "1980-05-22",
+    "releaseYear": 1980,
+    "earliestReleaseDate": "1980-05-22",
+    "releaseHistory": [
+      {
+        "label": "Original Arcade Location Test (Shibuya)",
+        "date": "1980-05-22",
+        "region": "Japan",
+        "platform": "Arcade",
+        "type": "original"
+      },
+      {
+        "label": "North American Release (Bally Midway)",
+        "date": "1980-10-26",
+        "region": "North America",
+        "platform": "Arcade",
+        "type": "regional"
+      },
+      {
+        "label": "Atari 2600 Home Port",
+        "date": "1982-03-16",
+        "region": "North America",
+        "platform": "Atari 2600",
+        "type": "port"
+      }
+    ],
+    "developer": "Toru Iwatani",
+    "publisher": "Namco",
+    "developers": [
+      "Toru Iwatani"
+    ],
+    "publishers": [
+      "Namco",
+      "Midway Games"
+    ],
+    "platforms": [
+      "Arcade",
+      "Atari 2600",
+      "NES",
+      "Various"
+    ],
+    "genres": [
+      "Maze",
+      "Action"
+    ],
+    "franchises": [
+      "Pac-Man"
+    ],
+    "series": [],
+    "country": "Japan",
+    "description": "Navigate a maze consuming dots, fruit, and energizers while evading four distinct chromatic ghosts (Blinky, Pinky, Inky, and Clyde), each programmed with unique pursuit AI logic.",
+    "historicalSignificance": "The highest-grossing arcade game of all time ($14B+ lifetime). Pac-Man created the first video game mascot, expanded gaming demographics to women and families, and pioneered distinct enemy artificial intelligence.",
+    "developmentContext": "Creator Toru Iwatani sought to create a non-violent game themed around eating that would welcome women into male-dominated arcade environments. The character shape was inspired by a pizza missing a slice.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pac-Man",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q52815",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/16/Pac_flyer.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Namco / Fair Use via Wikimedia Commons",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q52815",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pac-Man",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/1/16/Pac_flyer.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q725654",
+      "Q6399"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q6399",
+    "title": "Donkey Kong",
+    "alternateTitles": [
+      "ドンキーコング"
+    ],
+    "releaseDate": "1981-07-09",
+    "releaseYear": 1981,
+    "earliestReleaseDate": "1981-07-09",
+    "releaseHistory": [
+      {
+        "label": "Original Arcade Release",
+        "date": "1981-07-09",
+        "region": "Japan",
+        "platform": "Arcade",
+        "type": "original"
+      },
+      {
+        "label": "North American Arcade Launch",
+        "date": "1981-07-31",
+        "region": "North America",
+        "platform": "Arcade",
+        "type": "regional"
+      },
+      {
+        "label": "ColecoVision Pack-in Port",
+        "date": "1982-08-01",
+        "region": "North America",
+        "platform": "ColecoVision",
+        "type": "port"
+      }
+    ],
+    "developer": "Shigeru Miyamoto",
+    "publisher": "Nintendo",
+    "developers": [
+      "Shigeru Miyamoto",
+      "Gunpei Yokoi"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "Arcade",
+      "NES",
+      "ColecoVision"
+    ],
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "franchises": [
+      "Donkey Kong",
+      "Mario"
+    ],
+    "series": [],
+    "country": "Japan",
+    "description": "Jumpman (later Mario) must scale hazardous construction steel beams, jumping barrels and fireballs, to rescue Pauline from a rebellious pet ape atop the structure.",
+    "historicalSignificance": "Established the platform game genre, introduced Jumpman/Mario to the world, and propelled Nintendo from a struggling novelty company into an international arcade juggernaut.",
+    "developmentContext": "When Nintendo's arcade title Radar Scope failed in America, president Hiroshi Yamauchi assigned junior staff artist Shigeru Miyamoto to repurpose the unsold cabinets. Miyamoto designed the game around story and character.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q6399",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Donkey_Kong_arcade_flyer.jpg/640px-Donkey_Kong_arcade_flyer.jpg",
+    "imageCredit": "Nintendo / Public Domain via Wikimedia Commons",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q6399",
+      "wikipedia": "https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Donkey_Kong_arcade_flyer.jpg/640px-Donkey_Kong_arcade_flyer.jpg"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q11168",
+      "Q52815"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q564403",
+    "title": "Tetris",
+    "alternateTitles": [
+      "Тетрис"
+    ],
+    "releaseDate": "1984-06-06",
+    "releaseYear": 1984,
+    "earliestReleaseDate": "1984-06-06",
+    "releaseHistory": [
+      {
+        "label": "Original Elektronika 60 Version",
+        "date": "1984-06-06",
+        "region": "Soviet Union",
+        "platform": "Elektronika 60",
+        "type": "original"
+      },
+      {
+        "label": "IBM PC Port (Vadim Gerasimov)",
+        "date": "1986-07-01",
+        "region": "Soviet Union / Hungary",
+        "platform": "MS-DOS",
+        "type": "port"
+      },
+      {
+        "label": "Game Boy Bundle Release (Henk Rogers)",
+        "date": "1989-06-14",
+        "region": "North America",
+        "platform": "Game Boy",
+        "type": "port"
+      }
+    ],
+    "developer": "Alexey Pajitnov",
+    "publisher": "Elektronorgtechnica (ELORG)",
+    "developers": [
+      "Alexey Pajitnov",
+      "Vadim Gerasimov"
+    ],
+    "publishers": [
+      "Elektronorgtechnica (ELORG)",
+      "Nintendo"
+    ],
+    "platforms": [
+      "Elektronika 60",
+      "Game Boy",
+      "NES",
+      "Nearly Every Platform"
+    ],
+    "genres": [
+      "Puzzle",
+      "Tile-Matching"
+    ],
+    "franchises": [
+      "Tetris"
+    ],
+    "series": [],
+    "country": "Soviet Union",
+    "description": "Rotate and drop seven geometric falling tetrominoes into an unbroken matrix to clear rows and prevent the well from filling to the top.",
+    "historicalSignificance": "The most widely adapted puzzle game ever conceived, selling hundreds of millions of units. Its bundling with the Game Boy transformed portable gaming into an indispensable universal pastime.",
+    "developmentContext": "Created by Soviet computer scientist Alexey Pajitnov during the Cold War on a text-only Elektronika 60 computer at the Moscow Academy of Sciences. A dramatic geopolitical rights battle eventually brought the game to Nintendo's Game Boy.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tetris",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q564403",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tetris_logo_2019.svg/960px-Tetris_logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "Alexey Pajitnov / Wikimedia Commons",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q564403",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tetris",
+      "wikimediaCommons": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tetris_logo_2019.svg/960px-Tetris_logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q11168",
+      "Q12384"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q11168",
+    "title": "Super Mario Bros.",
+    "alternateTitles": [
+      "スーパーマリオブラザーズ"
+    ],
+    "releaseDate": "1985-09-13",
+    "releaseYear": 1985,
+    "earliestReleaseDate": "1985-09-13",
+    "releaseHistory": [
+      {
+        "label": "Original Famicom Release",
+        "date": "1985-09-13",
+        "region": "Japan",
+        "platform": "Family Computer (Famicom)",
+        "type": "original"
+      },
+      {
+        "label": "NES North American Launch Test",
+        "date": "1985-10-18",
+        "region": "North America",
+        "platform": "NES",
+        "type": "regional"
+      },
+      {
+        "label": "European Release",
+        "date": "1987-05-15",
+        "region": "Europe",
+        "platform": "NES",
+        "type": "regional"
+      }
+    ],
+    "developer": "Shigeru Miyamoto",
+    "publisher": "Nintendo",
+    "developers": [
+      "Shigeru Miyamoto",
+      "Takashi Tezuka",
+      "Koji Kondo"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "NES",
+      "NES / Famicom",
+      "Game Boy Color",
+      "Various"
+    ],
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "franchises": [
+      "Mario"
+    ],
+    "series": [
+      "Super Mario"
+    ],
+    "country": "Japan",
+    "description": "Mario and Luigi run and jump across the vibrant Mushroom Kingdom, stomping Goombas, discovering warp pipes, collecting fire flowers, and rescuing Princess Toadstool from King Koopa.",
+    "historicalSignificance": "The defining title that single-handedly revitalized the video game industry after the 1983 crash, selling over 40 million copies and codifying 2D side-scrolling precision controls.",
+    "developmentContext": "Built to celebrate the Famicom's culmination before transitioning to the Disk System. Miyamoto and Tezuka drew World 1-1 on graph paper, meticulously designing it to teach players mechanics without words.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q11168",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Nintendo / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q11168",
+      "wikipedia": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q6399",
+      "Q12384",
+      "Q564403"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q12384",
+    "title": "The Legend of Zelda",
+    "alternateTitles": [
+      "ゼルダの伝説",
+      "Zelda no Densetsu"
+    ],
+    "releaseDate": "1986-02-21",
+    "releaseYear": 1986,
+    "earliestReleaseDate": "1986-02-21",
+    "releaseHistory": [
+      {
+        "label": "Original Famicom Disk System Launch",
+        "date": "1986-02-21",
+        "region": "Japan",
+        "platform": "Famicom Disk System",
+        "type": "original"
+      },
+      {
+        "label": "North American Gold Cartridge NES Release",
+        "date": "1987-08-22",
+        "region": "North America",
+        "platform": "NES",
+        "type": "regional"
+      },
+      {
+        "label": "European Release",
+        "date": "1987-11-15",
+        "region": "Europe",
+        "platform": "NES",
+        "type": "regional"
+      }
+    ],
+    "developer": "Shigeru Miyamoto",
+    "publisher": "Nintendo",
+    "developers": [
+      "Shigeru Miyamoto",
+      "Takashi Tezuka"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "NES",
+      "Famicom Disk System"
+    ],
+    "genres": [
+      "Action-Adventure",
+      "Open-World Exploration"
+    ],
+    "franchises": [
+      "The Legend of Zelda"
+    ],
+    "series": [
+      "The Legend of Zelda"
+    ],
+    "country": "Japan",
+    "description": "Explore the untamed wilderness of Hyrule, discover hidden underworld dungeons, gather the fragments of the Triforce of Wisdom, and defeat the evil Prince of Darkness Ganon.",
+    "historicalSignificance": "Pioneered nonlinear open exploration in console games and was the first home console cartridge to incorporate internal battery-backed RAM for saving player progress.",
+    "developmentContext": "Inspired by Miyamoto's childhood memories of exploring the hills, forests, and caves of Kyoto without a map. Miyamoto wanted to give players a 'miniature garden that they can put inside their drawer.'",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q12384",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Nintendo / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q12384",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q11168",
+      "Q213912"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q12398",
+    "title": "Metroid",
+    "alternateTitles": [
+      "メトロイド"
+    ],
+    "releaseDate": "1986-08-06",
+    "releaseYear": 1986,
+    "earliestReleaseDate": "1986-08-06",
+    "releaseHistory": [
+      {
+        "label": "Original Famicom Disk System Launch",
+        "date": "1986-08-06",
+        "region": "Japan",
+        "platform": "Famicom Disk System",
+        "type": "original"
+      },
+      {
+        "label": "North American NES Release",
+        "date": "1987-08-15",
+        "region": "North America",
+        "platform": "NES",
+        "type": "regional"
+      }
+    ],
+    "developer": "Yoshio Sakamoto",
+    "publisher": "Nintendo",
+    "developers": [
+      "Yoshio Sakamoto",
+      "Gunpei Yokoi",
+      "Makoto Kano"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "NES",
+      "Famicom Disk System"
+    ],
+    "genres": [
+      "Action-Adventure",
+      "Platformer",
+      "Metroidvania"
+    ],
+    "franchises": [
+      "Metroid"
+    ],
+    "series": [
+      "Metroid"
+    ],
+    "country": "Japan",
+    "description": "Bounty hunter Samus Aran infiltrates the subterranean labyrinth of Planet Zebes to stop Space Pirates from breeding biomechanical Metroid parasites.",
+    "historicalSignificance": "Co-founded the beloved 'Metroidvania' exploratory game design subgenre, featured an unsettling Ridley Scott-inspired sci-fi atmosphere, and revealed one of gaming's first iconic female protagonists.",
+    "developmentContext": "Designed to combine the platforming mechanics of Super Mario Bros. with the nonlinear adventure exploration of Zelda, heightened with moody atmospheric soundscapes by composer Hirokazu Tanaka.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q12398",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Nintendo / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q12398",
+      "wikipedia": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q12384",
+      "Q11168"
+    ],
+    "featured": false
+  },
+  {
+    "id": "Q72488",
+    "title": "Street Fighter II: The World Warrior",
+    "alternateTitles": [
+      "ストリートファイターII"
+    ],
+    "releaseDate": "1991-02-06",
+    "releaseYear": 1991,
+    "earliestReleaseDate": "1991-02-06",
+    "releaseHistory": [
+      {
+        "label": "Original CP System Arcade Launch",
+        "date": "1991-02-06",
+        "region": "Japan",
+        "platform": "Arcade",
+        "type": "original"
+      },
+      {
+        "label": "Super Nintendo Home Console Port",
+        "date": "1992-06-10",
+        "region": "Worldwide",
+        "platform": "SNES",
+        "type": "port"
+      }
+    ],
+    "developer": "Yoshiki Okamoto",
+    "publisher": "Capcom",
+    "developers": [
+      "Yoshiki Okamoto",
+      "Akira Nishitani",
+      "Akira Yasuda"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "platforms": [
+      "Arcade",
+      "SNES",
+      "Genesis",
+      "Various"
+    ],
+    "genres": [
+      "Fighting",
+      "Versus"
+    ],
+    "franchises": [
+      "Street Fighter"
+    ],
+    "series": [
+      "Street Fighter"
+    ],
+    "country": "Japan",
+    "description": "Eight international martial artists with distinct special attacks battle head-to-head across three continents in competitive best-of-three tournaments.",
+    "historicalSignificance": "Established the template for modern competitive fighting games, popularized the combo system, and triggered the massive 1990s arcade revival.",
+    "developmentContext": "The combo mechanic was accidentally discovered by producer Noritaka Funamizu while bug testing the car bonus stage; he decided to leave the timing window in the game as a hidden technique for expert players.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Street_Fighter_II:_The_World_Warrior",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q72488",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/SF2_JPN_flyer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Capcom / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q72488",
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_II:_The_World_Warrior",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/1/1d/SF2_JPN_flyer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q18482",
+      "Q206121"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q18482",
+    "title": "Sonic the Hedgehog",
+    "alternateTitles": [
+      "ソニック・ザ・ヘッジホッグ"
+    ],
+    "releaseDate": "1991-06-23",
+    "releaseYear": 1991,
+    "earliestReleaseDate": "1991-06-23",
+    "releaseHistory": [
+      {
+        "label": "Original North American Genesis Launch",
+        "date": "1991-06-23",
+        "region": "North America",
+        "platform": "Sega Genesis",
+        "type": "original"
+      },
+      {
+        "label": "Japanese Mega Drive Launch",
+        "date": "1991-07-26",
+        "region": "Japan",
+        "platform": "Sega Mega Drive",
+        "type": "regional"
+      }
+    ],
+    "developer": "Yuji Naka",
+    "publisher": "Sega",
+    "developers": [
+      "Yuji Naka",
+      "Naoto Ohshima",
+      "Hirokazu Yasuhara"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "platforms": [
+      "Sega Genesis / Mega Drive",
+      "Mega Drive"
+    ],
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "franchises": [
+      "Sonic the Hedgehog"
+    ],
+    "series": [
+      "Sonic"
+    ],
+    "country": "Japan",
+    "description": "Zip through loop-de-loops, springs, and corkscrews at blistering supersonic speed as blue hedgehog Sonic, freeing enslaved animal friends from the tyrannical Dr. Ivo Robotnik.",
+    "historicalSignificance": "The flagship mascot that ignited the fierce 16-bit console wars, temporarily allowing Sega to eclipse Nintendo's market share in the United States.",
+    "developmentContext": "Programmer Yuji Naka engineered an innovative smooth-scrolling algorithm capable of moving sprites across curved loops at speeds no other console title had achieved.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q18482",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Sega / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q18482",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q11168",
+      "Q72488"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q206121",
+    "title": "Doom",
+    "alternateTitles": [
+      "DOOM"
+    ],
+    "releaseDate": "1993-12-10",
+    "releaseYear": 1993,
+    "earliestReleaseDate": "1993-12-10",
+    "releaseHistory": [
+      {
+        "label": "Shareware Episode 1 Upload to Software Creations BBS",
+        "date": "1993-12-10",
+        "region": "Worldwide",
+        "platform": "MS-DOS",
+        "type": "original"
+      }
+    ],
+    "developer": "John Carmack",
+    "publisher": "id Software",
+    "developers": [
+      "John Carmack",
+      "John Romero",
+      "Adrian Carmack",
+      "Kevin Cloud",
+      "Tom Hall"
+    ],
+    "publishers": [
+      "id Software"
+    ],
+    "platforms": [
+      "MS-DOS",
+      "PC",
+      "PlayStation",
+      "Various"
+    ],
+    "genres": [
+      "First-Person Shooter",
+      "Action",
+      "Horror"
+    ],
+    "franchises": [
+      "Doom"
+    ],
+    "series": [
+      "Doom"
+    ],
+    "country": "United States",
+    "description": "As a lone space marine on the moons of Mars, battle hordes of demons using shotguns, chainsaws, plasma rifles, and the BFG 9000 across fast-paced non-linear corridors.",
+    "historicalSignificance": "Popularized the first-person shooter genre, pioneered multiplayer LAN deathmatches, launched user modding culture (WAD files), and was installed on more PCs than Microsoft Windows in 1994.",
+    "developmentContext": "John Carmack created a revolutionary binary space partitioning (BSP) 2.5D graphics engine allowing variable floor heights, directional lighting, and non-orthogonal walls.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q206121",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "id Software / Public Domain via Wikimedia Commons",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q206121",
+      "wikipedia": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q279446",
+      "Q72488"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q213912",
+    "title": "Chrono Trigger",
+    "alternateTitles": [
+      "クロノ・トリガー"
+    ],
+    "releaseDate": "1995-03-11",
+    "releaseYear": 1995,
+    "earliestReleaseDate": "1995-03-11",
+    "releaseHistory": [
+      {
+        "label": "Original Super Famicom Launch",
+        "date": "1995-03-11",
+        "region": "Japan",
+        "platform": "Super Famicom",
+        "type": "original"
+      },
+      {
+        "label": "North American SNES Release",
+        "date": "1995-08-22",
+        "region": "North America",
+        "platform": "SNES",
+        "type": "regional"
+      },
+      {
+        "label": "PlayStation Remaster with Anime Cutscenes",
+        "date": "1999-11-02",
+        "region": "Japan",
+        "platform": "PlayStation",
+        "type": "port"
+      }
+    ],
+    "developer": "Hironobu Sakaguchi",
+    "publisher": "Square",
+    "developers": [
+      "Hironobu Sakaguchi",
+      "Yuji Horii",
+      "Akira Toriyama",
+      "Yasunori Mitsuda",
+      "Nobuo Uematsu"
+    ],
+    "publishers": [
+      "Square"
+    ],
+    "platforms": [
+      "SNES",
+      "PlayStation",
+      "Nintendo DS"
+    ],
+    "genres": [
+      "Japanese RPG",
+      "Turn-Based RPG",
+      "Adventure"
+    ],
+    "franchises": [
+      "Chrono"
+    ],
+    "series": [
+      "Chrono"
+    ],
+    "country": "Japan",
+    "description": "Crono and companion heroes journey across prehistory, the Middle Ages, the Dark Ages, and a ruined future to prevent the extraterrestrial parasite Lavos from consuming Earth.",
+    "historicalSignificance": "Universally praised as one of the greatest role-playing games ever made, featuring 13 distinct endings, seamless non-random combat encounters, and the invention of 'New Game+'.",
+    "developmentContext": "Created by the 'Dream Team': Final Fantasy creator Hironobu Sakaguchi, Dragon Quest creator Yuji Horii, and Dragon Ball creator/artist Akira Toriyama, with a landmark soundtrack by Yasunori Mitsuda.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrono_Trigger",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q213912",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chrono_Trigger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Square Enix / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q213912",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chrono_Trigger",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chrono_Trigger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q12384",
+      "Q214170"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q214170",
+    "title": "Super Mario 64",
+    "alternateTitles": [
+      "スーパーマリオ64"
+    ],
+    "releaseDate": "1996-06-23",
+    "releaseYear": 1996,
+    "earliestReleaseDate": "1996-06-23",
+    "releaseHistory": [
+      {
+        "label": "Original Nintendo 64 Japanese Launch",
+        "date": "1996-06-23",
+        "region": "Japan",
+        "platform": "Nintendo 64",
+        "type": "original"
+      },
+      {
+        "label": "North American N64 Launch",
+        "date": "1996-09-29",
+        "region": "North America",
+        "platform": "Nintendo 64",
+        "type": "regional"
+      },
+      {
+        "label": "European Release",
+        "date": "1997-03-01",
+        "region": "Europe",
+        "platform": "Nintendo 64",
+        "type": "regional"
+      }
+    ],
+    "developer": "Shigeru Miyamoto",
+    "publisher": "Nintendo",
+    "developers": [
+      "Shigeru Miyamoto",
+      "Takashi Tezuka",
+      "Yoshiaki Koizumi"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genres": [
+      "3D Platformer",
+      "Action-Adventure"
+    ],
+    "franchises": [
+      "Mario"
+    ],
+    "series": [
+      "Super Mario"
+    ],
+    "country": "Japan",
+    "description": "Jump into paintings across Princess Peach's castle to collect 120 Power Stars in sprawling 3D sandbox worlds, mastering triple jumps, wall kicks, and analog stick acrobatics.",
+    "historicalSignificance": "Defined the 3D movement paradigm and user-controlled camera for all video games that followed. It proved that complex 3D environments could be navigated with fluid intuitive precision.",
+    "developmentContext": "Miyamoto and Koizumi spent over a year tuning Mario's acrobatic animations in an empty sandbox room before building any level geometry, ensuring basic movement alone felt joyful.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Super_Mario_64",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q214170",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/Super_Mario_64.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Nintendo / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q214170",
+      "wikipedia": "https://en.wikipedia.org/wiki/Super_Mario_64",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/e/e9/Super_Mario_64.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q11168",
+      "Q213912",
+      "Q214172"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q214172",
+    "title": "Final Fantasy VII",
+    "alternateTitles": [
+      "ファイナルファンタジーVII",
+      "FF7"
+    ],
+    "releaseDate": "1997-01-31",
+    "releaseYear": 1997,
+    "earliestReleaseDate": "1997-01-31",
+    "releaseHistory": [
+      {
+        "label": "Original PlayStation 3-Disc Release",
+        "date": "1997-01-31",
+        "region": "Japan",
+        "platform": "PlayStation",
+        "type": "original"
+      },
+      {
+        "label": "North American Release",
+        "date": "1997-09-07",
+        "region": "North America",
+        "platform": "PlayStation",
+        "type": "regional"
+      },
+      {
+        "label": "Microsoft Windows PC Port (Eidos)",
+        "date": "1998-06-25",
+        "region": "Worldwide",
+        "platform": "PC",
+        "type": "port"
+      }
+    ],
+    "developer": "Yoshinori Kitase",
+    "publisher": "Sony Computer Entertainment",
+    "developers": [
+      "Yoshinori Kitase",
+      "Hironobu Sakaguchi",
+      "Tetsuya Nomura",
+      "Nobuo Uematsu"
+    ],
+    "publishers": [
+      "Sony Computer Entertainment",
+      "Square"
+    ],
+    "platforms": [
+      "PlayStation",
+      "PC",
+      "Modern Consoles"
+    ],
+    "genres": [
+      "Japanese RPG",
+      "Cyberpunk",
+      "Adventure"
+    ],
+    "franchises": [
+      "Final Fantasy"
+    ],
+    "series": [
+      "Final Fantasy"
+    ],
+    "country": "Japan",
+    "description": "Mercenary Cloud Strife joins eco-terrorist group AVALANCHE in the dystopian metropolis of Midgar to halt the Shinra Corporation, soon confronting the fallen war hero Sephiroth.",
+    "historicalSignificance": "The watershed moment that established Japanese RPGs as massive worldwide blockbusters and drove tens of millions of consumers to the Sony PlayStation CD-ROM ecosystem.",
+    "developmentContext": "Square abandoned their long partnership with Nintendo because the N64's 64MB cartridges could not hold the hundreds of megabytes of 3D CGI full-motion video sequences that Square envisioned.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q214172",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/Final_Fantasy_VII_Box_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Square Enix / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q214172",
+      "wikipedia": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/c/c2/Final_Fantasy_VII_Box_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q213912",
+      "Q214170"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q279446",
+    "title": "Half-Life",
+    "alternateTitles": [
+      "HL1"
+    ],
+    "releaseDate": "1998-11-19",
+    "releaseYear": 1998,
+    "earliestReleaseDate": "1998-11-19",
+    "releaseHistory": [
+      {
+        "label": "Original PC Retail Release",
+        "date": "1998-11-19",
+        "region": "North America",
+        "platform": "PC",
+        "type": "original"
+      },
+      {
+        "label": "PlayStation 2 Enhanced Port",
+        "date": "2001-11-11",
+        "region": "North America",
+        "platform": "PlayStation 2",
+        "type": "port"
+      }
+    ],
+    "developer": "Gabe Newell",
+    "publisher": "Sierra On-Line",
+    "developers": [
+      "Gabe Newell",
+      "Marc Laidlaw",
+      "Ken Birdwell"
+    ],
+    "publishers": [
+      "Sierra On-Line",
+      "Valve"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 2",
+      "Linux",
+      "macOS"
+    ],
+    "genres": [
+      "First-Person Shooter",
+      "Sci-Fi",
+      "Narrative Action"
+    ],
+    "franchises": [
+      "Half-Life"
+    ],
+    "series": [
+      "Half-Life"
+    ],
+    "country": "United States",
+    "description": "Theoretical physicist Gordon Freeman must fight his way out of the subterranean Black Mesa Research Facility following an anomalous resonance cascade that opens a portal to the alien dimension Xen.",
+    "historicalSignificance": "Eliminated pre-rendered cutscenes in favor of real-time scripted narrative told entirely from the uninterrupted perspective of the player, forever transforming environmental storytelling.",
+    "developmentContext": "Former Microsoft executives Gabe Newell and Mike Harrington self-funded Valve. Unsatisfied with their early build in late 1997, they scrapped nearly a year of work to completely redesign the campaign with seamless continuous levels.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Half-Life_(video_game)",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q279446",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Valve Corporation / Public Domain via Wikimedia Commons",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q279446",
+      "wikipedia": "https://en.wikipedia.org/wiki/Half-Life_(video_game)",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q206121",
+      "Q193630",
+      "Q234479"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q214174",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "alternateTitles": [
+      "ゼルダの伝説 時のオカリナ"
+    ],
+    "releaseDate": "1998-11-21",
+    "releaseYear": 1998,
+    "earliestReleaseDate": "1998-11-21",
+    "releaseHistory": [
+      {
+        "label": "Original Nintendo 64 Japanese Launch",
+        "date": "1998-11-21",
+        "region": "Japan",
+        "platform": "Nintendo 64",
+        "type": "original"
+      },
+      {
+        "label": "North American Launch",
+        "date": "1998-11-23",
+        "region": "North America",
+        "platform": "Nintendo 64",
+        "type": "regional"
+      },
+      {
+        "label": "Nintendo 3DS 3D Remaster",
+        "date": "2011-06-16",
+        "region": "Worldwide",
+        "platform": "Nintendo 3DS",
+        "type": "remaster"
+      }
+    ],
+    "developer": "Shigeru Miyamoto",
+    "publisher": "Nintendo",
+    "developers": [
+      "Shigeru Miyamoto",
+      "Toru Osawa",
+      "Yoichi Yamada",
+      "Eiji Aonuma",
+      "Yoshiaki Koizumi"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "GameCube",
+      "3DS"
+    ],
+    "genres": [
+      "Action-Adventure",
+      "Fantasy"
+    ],
+    "franchises": [
+      "The Legend of Zelda"
+    ],
+    "series": [
+      "The Legend of Zelda"
+    ],
+    "country": "Japan",
+    "description": "Young Link travels seven years forward and backward across time with the titular magical Ocarina to awaken seven sages and thwart the Sorcerer King Ganondorf.",
+    "historicalSignificance": "The highest-rated video game of all time on Metacritic (99/100). Introduced Z-targeting lock-on combat and context-sensitive action buttons that remain industry standards today.",
+    "developmentContext": "Koizumi devised the iconic Z-targeting system after observing a ninja sword combat stunt demonstration at Toei Kyoto Studio Park, solving the difficult problem of 3D spatial orientation in combat.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q214174",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Nintendo / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q214174",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q12384",
+      "Q214170",
+      "Q213912"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q14920",
+    "title": "Grand Theft Auto III",
+    "alternateTitles": [
+      "GTA III",
+      "GTA3"
+    ],
+    "releaseDate": "2001-10-22",
+    "releaseYear": 2001,
+    "earliestReleaseDate": "2001-10-22",
+    "releaseHistory": [
+      {
+        "label": "Original PlayStation 2 North American Release",
+        "date": "2001-10-22",
+        "region": "North America",
+        "platform": "PlayStation 2",
+        "type": "original"
+      },
+      {
+        "label": "Microsoft Windows PC Port",
+        "date": "2002-05-21",
+        "region": "North America",
+        "platform": "PC",
+        "type": "port"
+      }
+    ],
+    "developer": "David Jones",
+    "publisher": "Rockstar Games",
+    "developers": [
+      "David Jones",
+      "Sam Houser",
+      "Dan Houser",
+      "Leslie Benzies"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "platforms": [
+      "PlayStation 2",
+      "PC",
+      "Xbox"
+    ],
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Crime"
+    ],
+    "franchises": [
+      "Grand Theft Auto"
+    ],
+    "series": [
+      "Grand Theft Auto"
+    ],
+    "country": "United Kingdom",
+    "description": "Silent protagonist Claude climbs the criminal underworld ranks of Liberty City, commandeering vehicles, engaging in gang warfare, and doing missions for syndicates in a living 3D urban sandbox.",
+    "historicalSignificance": "The landmark cultural turning point that popularized the 3D open-world sandbox genre, giving players unprecedented agency and sparking worldwide mainstream discussions on adult video game content.",
+    "developmentContext": "DMA Design transitioned from top-down 2D rendering to full 3D using the RenderWare engine, meticulously simulating pedestrian behaviors, weather, police AI, and radio stations.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q14920",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Rockstar Games / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q14920",
+      "wikipedia": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q193630",
+      "Q279446"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q193630",
+    "title": "Halo: Combat Evolved",
+    "alternateTitles": [
+      "Halo 1"
+    ],
+    "releaseDate": "2001-11-15",
+    "releaseYear": 2001,
+    "earliestReleaseDate": "2001-11-15",
+    "releaseHistory": [
+      {
+        "label": "Original Xbox Launch Title",
+        "date": "2001-11-15",
+        "region": "North America",
+        "platform": "Xbox",
+        "type": "original"
+      },
+      {
+        "label": "PC Port (Gearbox Software)",
+        "date": "2003-09-30",
+        "region": "North America",
+        "platform": "PC",
+        "type": "port"
+      }
+    ],
+    "developer": "Jason Jones",
+    "publisher": "Microsoft",
+    "developers": [
+      "Jason Jones",
+      "Marcus Lehto",
+      "Joseph Staten",
+      "Martin O'Donnell"
+    ],
+    "publishers": [
+      "Microsoft"
+    ],
+    "platforms": [
+      "Xbox",
+      "PC",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "genres": [
+      "First-Person Shooter",
+      "Sci-Fi Action"
+    ],
+    "franchises": [
+      "Halo"
+    ],
+    "series": [
+      "Halo"
+    ],
+    "country": "United States",
+    "description": "Super-soldier Master Chief and AI Cortana wage war against the religious alien alliance known as the Covenant across a mysterious ringworld superweapon.",
+    "historicalSignificance": "The defining launch title that single-handedly established the original Xbox, proving that first-person shooters could be controlled masterfully with dual-analog gamepads.",
+    "developmentContext": "Originally previewed by Steve Jobs in 1999 as a Mac strategy game, Microsoft acquired Bungie in 2000 to transform it into the premiere system-seller for the debut Xbox console.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q193630",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Microsoft / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q193630",
+      "wikipedia": "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q279446",
+      "Q206121"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q131501",
+    "title": "World of Warcraft",
+    "alternateTitles": [
+      "WoW"
+    ],
+    "releaseDate": "2004-11-23",
+    "releaseYear": 2004,
+    "earliestReleaseDate": "2004-11-23",
+    "releaseHistory": [
+      {
+        "label": "North American 10th Anniversary Release",
+        "date": "2004-11-23",
+        "region": "North America",
+        "platform": "PC",
+        "type": "original"
+      },
+      {
+        "label": "European Launch",
+        "date": "2005-02-11",
+        "region": "Europe",
+        "platform": "PC",
+        "type": "regional"
+      }
+    ],
+    "developer": "Rob Pardo",
+    "publisher": "Blizzard Entertainment",
+    "developers": [
+      "Rob Pardo",
+      "Jeff Kaplan",
+      "Tom Chilton",
+      "Chris Metzen"
+    ],
+    "publishers": [
+      "Blizzard Entertainment"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "genres": [
+      "MMORPG",
+      "Fantasy",
+      "Massively Multiplayer"
+    ],
+    "franchises": [
+      "Warcraft"
+    ],
+    "series": [
+      "Warcraft"
+    ],
+    "country": "United States",
+    "description": "Step into Azeroth as a champion of the Alliance or Horde, completing quests, exploring dungeons, battling in battlegrounds, and joining 40-player raids in an immense persistent world.",
+    "historicalSignificance": "The defining cultural pinnacle of the MMORPG genre, peaking at over 12 million active monthly subscribers and making online virtual worlds a global social phenomenon.",
+    "developmentContext": "Blizzard prioritized accessibility over punishing death penalties found in contemporaries like EverQuest, replacing harsh exp-loss with 'rested exp' and intuitive quest-based leveling.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/World_of_Warcraft",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q131501",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Blizzard Entertainment / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q131501",
+      "wikipedia": "https://en.wikipedia.org/wiki/World_of_Warcraft",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q279446",
+      "Q22998"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q170624",
+    "title": "Dark Souls",
+    "alternateTitles": [
+      "ダークソウル"
+    ],
+    "releaseDate": "2011-09-22",
+    "releaseYear": 2011,
+    "earliestReleaseDate": "2011-09-22",
+    "releaseHistory": [
+      {
+        "label": "Original PlayStation 3 / Xbox 360 Launch",
+        "date": "2011-09-22",
+        "region": "Japan",
+        "platform": "PS3",
+        "type": "original"
+      },
+      {
+        "label": "Prepare to Die Edition (PC)",
+        "date": "2012-08-24",
+        "region": "Worldwide",
+        "platform": "PC",
+        "type": "port"
+      }
+    ],
+    "developer": "Hidetaka Miyazaki",
+    "publisher": "Bandai Namco Entertainment",
+    "developers": [
+      "Hidetaka Miyazaki"
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment",
+      "FromSoftware"
+    ],
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "genres": [
+      "Action RPG",
+      "Soulslike",
+      "Dark Fantasy"
+    ],
+    "franchises": [
+      "Dark Souls"
+    ],
+    "series": [
+      "Souls"
+    ],
+    "country": "Japan",
+    "description": "As the Chosen Undead in the decaying realm of Lordran, navigate an intricately interconnected vertical world, rest at bonfires, endure punishing methodical combat, and link the First Flame.",
+    "historicalSignificance": "Created the 'Soulslike' genre, bucking industry trends toward casual hand-holding in favor of deliberate environmental storytelling, high difficulty, and rewarding mastery.",
+    "developmentContext": "Director Hidetaka Miyazaki embraced fragmented storytelling inspired by reading English fantasy books as a child where he could only understand half the vocabulary, forcing his imagination to fill the gaps.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dark_Souls",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q170624",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dark_Souls_1_logo.png/640px-Dark_Souls_1_logo.png",
+    "imageCredit": "FromSoftware / Bandai Namco / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q170624",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dark_Souls",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dark_Souls_1_logo.png/640px-Dark_Souls_1_logo.png"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q106317440",
+      "Q12384"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q22998",
+    "title": "Minecraft",
+    "alternateTitles": [
+      "Cave Game"
+    ],
+    "releaseDate": "2011-11-18",
+    "releaseYear": 2011,
+    "earliestReleaseDate": "2011-11-18",
+    "releaseHistory": [
+      {
+        "label": "Original Java Classic Alpha",
+        "date": "2009-05-17",
+        "region": "Worldwide",
+        "platform": "Java PC",
+        "type": "original"
+      },
+      {
+        "label": "Official Full Release (MineCon)",
+        "date": "2011-11-18",
+        "region": "Worldwide",
+        "platform": "PC",
+        "type": "announcement"
+      },
+      {
+        "label": "Xbox 360 Edition Launch",
+        "date": "2012-05-09",
+        "region": "Worldwide",
+        "platform": "Xbox 360",
+        "type": "port"
+      }
+    ],
+    "developer": "Markus Persson (Notch)",
+    "publisher": "Mojang",
+    "developers": [
+      "Markus Persson (Notch)",
+      "Jens Bergensten (Jeb)"
+    ],
+    "publishers": [
+      "Mojang",
+      "Microsoft"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PlayStation",
+      "Nintendo Switch",
+      "iOS",
+      "Android"
+    ],
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Voxel Building"
+    ],
+    "franchises": [
+      "Minecraft"
+    ],
+    "series": [],
+    "country": "Sweden",
+    "description": "An infinite procedurally generated voxel world where players mine materials, craft tools, build architectural marvels, engineer Redstone circuitry, and survive against nocturnal monsters.",
+    "historicalSignificance": "The single best-selling video game in human history (over 300 million copies sold), establishing the indie game movement as an economic titan and inspiring an entire generation of digital builders.",
+    "developmentContext": "Created by solo Swedish programmer Markus Persson in Java over a single weekend in May 2009, drawing inspiration from Infiniminer and Dwarf Fortress before snowballing into a multi-billion dollar cultural empire acquired by Microsoft.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Minecraft",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q22998",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Minecraft_logo.svg/640px-Minecraft_logo.svg.png",
+    "imageCredit": "Mojang Studios / Microsoft / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q22998",
+      "wikipedia": "https://en.wikipedia.org/wiki/Minecraft",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Minecraft_logo.svg/640px-Minecraft_logo.svg.png"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q131501",
+      "Q11168"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q171457",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "alternateTitles": [
+      "ゼルダの伝説 ブレス オブ ザ ワイルド",
+      "BotW"
+    ],
+    "releaseDate": "2017-03-03",
+    "releaseYear": 2017,
+    "earliestReleaseDate": "2017-03-03",
+    "releaseHistory": [
+      {
+        "label": "Nintendo Switch / Wii U Simultaneous Worldwide Launch",
+        "date": "2017-03-03",
+        "region": "Worldwide",
+        "platform": "Nintendo Switch / Wii U",
+        "type": "original"
+      }
+    ],
+    "developer": "Hidemaro Fujibayashi",
+    "publisher": "Nintendo",
+    "developers": [
+      "Hidemaro Fujibayashi",
+      "Eiji Aonuma"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "genres": [
+      "Action-Adventure",
+      "Open World"
+    ],
+    "franchises": [
+      "The Legend of Zelda"
+    ],
+    "series": [
+      "The Legend of Zelda"
+    ],
+    "country": "Japan",
+    "description": "Awaken after a century-long slumber into a post-apocalyptic Hyrule where any mountain can be climbed, any cliff glided from, and physical and chemical systems interact dynamically with fire, electricity, and gravity.",
+    "historicalSignificance": "Revolutionized open-world design through 'chemistry engine' sandbox physics and complete player autonomy, sweeping Game of the Year awards globally.",
+    "developmentContext": "Nintendo prototyped the mechanics using an 8-bit 2D top-down Zelda engine to verify that emergent interactions between environmental elements (wind, fire, wood) were enjoyable before translating to full 3D.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q171457",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Nintendo / Trademark / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q171457",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q12384",
+      "Q214174",
+      "Q106317440"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q106317440",
+    "title": "Elden Ring",
+    "alternateTitles": [
+      "エルデンリング"
+    ],
+    "releaseDate": "2022-02-25",
+    "releaseYear": 2022,
+    "earliestReleaseDate": "2022-02-25",
+    "releaseHistory": [
+      {
+        "label": "Worldwide Multi-Platform Launch",
+        "date": "2022-02-25",
+        "region": "Worldwide",
+        "platform": "PC / PS5 / PS4 / Xbox Series / Xbox One",
+        "type": "original"
+      },
+      {
+        "label": "Shadow of the Erdtree Expansion",
+        "date": "2024-06-21",
+        "region": "Worldwide",
+        "platform": "PC / PS5 / Xbox Series",
+        "type": "remaster"
+      }
+    ],
+    "developer": "Hidetaka Miyazaki",
+    "publisher": "Bandai Namco Entertainment",
+    "developers": [
+      "Hidetaka Miyazaki",
+      "George R. R. Martin"
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment",
+      "FromSoftware"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X/S",
+      "Xbox One"
+    ],
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Soulslike"
+    ],
+    "franchises": [
+      "Elden Ring"
+    ],
+    "series": [
+      "Soulsborne"
+    ],
+    "country": "Japan",
+    "description": "Rise as the Tarnished in the Lands Between, guided by grace to brandish the power of the Elden Ring and become Elden Lord in a vast open fantasy realm crafted with worldbuilding by George R. R. Martin.",
+    "historicalSignificance": "Sold over 25 million copies, uniting the meticulous combat and depth of Soulslikes with breathtaking open-world discovery, winning Game of the Year across major ceremonies.",
+    "developmentContext": "Miyazaki collaborated with A Song of Ice and Fire author George R. R. Martin, who crafted the ancient mythology, genealogical drama, and demigod conflicts that predated the shattering of the Elden Ring.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Elden_Ring",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q106317440",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "FromSoftware / Bandai Namco / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q106317440",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q170624",
+      "Q171457",
+      "Q63983137"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q63983137",
+    "title": "Baldur's Gate 3",
+    "alternateTitles": [
+      "BG3"
+    ],
+    "releaseDate": "2023-08-03",
+    "releaseYear": 2023,
+    "earliestReleaseDate": "2023-08-03",
+    "releaseHistory": [
+      {
+        "label": "Early Access Premiere",
+        "date": "2020-10-06",
+        "region": "Worldwide",
+        "platform": "PC",
+        "type": "original"
+      },
+      {
+        "label": "PC Full Release",
+        "date": "2023-08-03",
+        "region": "Worldwide",
+        "platform": "PC",
+        "type": "original"
+      },
+      {
+        "label": "PlayStation 5 Console Launch",
+        "date": "2023-09-06",
+        "region": "Worldwide",
+        "platform": "PlayStation 5",
+        "type": "regional"
+      },
+      {
+        "label": "Xbox Series X/S Release",
+        "date": "2023-12-07",
+        "region": "Worldwide",
+        "platform": "Xbox Series X/S",
+        "type": "regional"
+      }
+    ],
+    "developer": "Swen Vincke",
+    "publisher": "Larian Studios",
+    "developers": [
+      "Swen Vincke",
+      "Adam Smith"
+    ],
+    "publishers": [
+      "Larian Studios"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "macOS"
+    ],
+    "genres": [
+      "Western RPG",
+      "Turn-Based Tactical RPG",
+      "CRPG"
+    ],
+    "franchises": [
+      "Baldur's Gate",
+      "Dungeons & Dragons"
+    ],
+    "series": [
+      "Baldur's Gate"
+    ],
+    "country": "Belgium",
+    "description": "Infected with an illithid mind flayer tadpole in the Forgotten Realms, gather companion adventurers and make reactive moral decisions through turn-based tactical D&D 5th Edition combat with infinite systemic permutations.",
+    "historicalSignificance": "The most acclaimed CRPG of the 21st century, sweeping all five major Game of the Year awards (The Game Awards, BAFTA, D.I.C.E., GDC, Golden Joystick) and raising standards for narrative reactivity.",
+    "developmentContext": "Larian Studios spent six years with over 400 developers and extensive motion-capture performances to achieve cinematic intimacy for every dialogue interaction in a systemic isometric RPG framework.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q63983137",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Baldur%27s_Gate_3_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Larian Studios / Wizards of the Coast / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q63983137",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/1/12/Baldur%27s_Gate_3_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q106317440",
+      "Q131501"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q125586940",
+    "title": "Black Myth: Wukong",
+    "alternateTitles": [
+      "黑神话：悟空"
+    ],
+    "releaseDate": "2024-08-20",
+    "releaseYear": 2024,
+    "earliestReleaseDate": "2024-08-20",
+    "releaseHistory": [
+      {
+        "label": "Worldwide PC and PS5 Launch",
+        "date": "2024-08-20",
+        "region": "Worldwide",
+        "platform": "PC / PlayStation 5",
+        "type": "original"
+      }
+    ],
+    "developer": "Feng Ji",
+    "publisher": "Game Science",
+    "developers": [
+      "Feng Ji",
+      "Yang Qi"
+    ],
+    "publishers": [
+      "Game Science"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Action RPG",
+      "Mythology",
+      "Soulslike"
+    ],
+    "franchises": [
+      "Journey to the West"
+    ],
+    "series": [],
+    "country": "China",
+    "description": "Embark as the Destined One across mythical Chinese landscapes inspired by the classical 16th-century novel Journey to the West, wielding the staff of Sun Wukong and shifting into diverse beast forms.",
+    "historicalSignificance": "A landmark triumph for Chinese AAA game development, selling 20 million units in its first month and reaching over 2.4 million concurrent players on Steam, the highest for any single-player title in history.",
+    "developmentContext": "Game Science utilized Unreal Engine 5 Nanite and Full Lumen ray tracing, 3D scanning ancient Chinese Buddhist temples, pagodas, and historical artifacts across Shanxi province to achieve unparalleled cultural authenticity.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q125586940",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a6/Black_Myth_Wukong_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Game Science / Fair Use",
+    "imageLicense": "Fair Use",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q125586940",
+      "wikipedia": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/a/a6/Black_Myth_Wukong_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q106317440",
+      "Q170624"
+    ],
+    "featured": true
+  },
+  {
+    "id": "Q110822602",
+    "title": "Grand Theft Auto VI",
+    "alternateTitles": [
+      "GTA VI",
+      "GTA6"
+    ],
+    "releaseDate": "2026-11-01",
+    "releaseYear": 2026,
+    "earliestReleaseDate": "2026-11-01",
+    "releaseHistory": [
+      {
+        "label": "First Official Reveal Trailer",
+        "date": "2023-12-05",
+        "region": "Worldwide",
+        "platform": "Video Announcement",
+        "type": "announcement"
+      },
+      {
+        "label": "Projected PlayStation 5 / Xbox Series Launch",
+        "date": "2026-11-01",
+        "region": "Worldwide",
+        "platform": "PlayStation 5 / Xbox Series X/S",
+        "type": "original"
+      }
+    ],
+    "developer": "Rockstar Studios",
+    "publisher": "Rockstar Games",
+    "developers": [
+      "Rockstar Studios"
+    ],
+    "publishers": [
+      "Rockstar Games",
+      "Take-Two Interactive"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Crime"
+    ],
+    "franchises": [
+      "Grand Theft Auto"
+    ],
+    "series": [
+      "Grand Theft Auto"
+    ],
+    "country": "United States",
+    "description": "Set in the neon-soaked state of Leonida (home to Vice City), follow dual criminal partners Lucia and Jason in modern-day Florida-inspired satirical excess.",
+    "historicalSignificance": "The most anticipated entertainment release of the decade; its premiere trailer garnered over 90 million views in 24 hours, shattering YouTube world records for non-music video debuts.",
+    "developmentContext": "Representing over a decade of evolution in Rockstar's proprietary RAGE engine, pushing real-time crowd AI density, hair simulation, water physics, and social media integration.",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q110822602",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageCredit": "Rockstar Games / Take-Two Interactive / Public Domain via Wikimedia Commons",
+    "imageLicense": "Public Domain",
+    "source": "Wikidata/Wikipedia/Wikimedia Commons",
+    "sources": {
+      "wikidata": "https://www.wikidata.org/wiki/Q110822602",
+      "wikipedia": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "wikimediaCommons": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "lastUpdated": "2026-10-05",
+    "confidence": "high",
+    "relatedGameIds": [
+      "Q14920",
+      "Q106317440"
+    ],
+    "featured": true
+  }
+]

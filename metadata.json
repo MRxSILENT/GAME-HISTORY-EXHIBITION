@@ -1,0 +1,8 @@
+{
+  "name": "Game History Exhibition",
+  "description": "An interactive digital museum and timeline of video game history, from early experimental mainframes to present day and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

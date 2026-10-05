@@ -1,0 +1,112 @@
+[
+  {
+    "id": "prehistory",
+    "name": "Early Experiments & Mainframes",
+    "subtitle": "1947 – 1969",
+    "startYear": 1947,
+    "endYear": 1969,
+    "description": "Before consumer electronics existed, scientists and university researchers repurposed military radar tubes and mainframe supercomputers to build the world's very first interactive virtual experiences.",
+    "accentColor": "#06b6d4",
+    "curatorNotes": "Games in this era were largely academic demonstrations or military engineering curiosities, running on machines that filled entire rooms like the PDP-1 and Nimrod.",
+    "definingTech": ["Vacuum Tubes", "Oscilloscopes", "Mainframes", "PDP-1", "Ferranti Nimrod"]
+  },
+  {
+    "id": "first-gen",
+    "name": "First Generation & Dawn of Arcades",
+    "subtitle": "1970 – 1977",
+    "startYear": 1970,
+    "endYear": 1977,
+    "description": "Ralph Baer's Magnavox Odyssey creates the home console industry, while Nolan Bushnell and Ted Dabney forge Atari and launch Pong into bars and arcades across the world.",
+    "accentColor": "#eab308",
+    "curatorNotes": "Hardware had no microprocessors; game logic was hard-wired into transistor-transistor logic (TTL) circuits. Games were discrete analog and digital electronic circuits.",
+    "definingTech": ["Discrete Logic (TTL)", "Magnavox Odyssey", "Atari Pong Arcade", "Analog Paddles"]
+  },
+  {
+    "id": "golden-arcade",
+    "name": "Golden Age of Arcades & 2nd Generation",
+    "subtitle": "1978 – 1982",
+    "startYear": 1978,
+    "endYear": 1982,
+    "description": "Space Invaders sparks a global coin shortage in Japan. Pac-Man becomes a worldwide pop-culture phenomenon. At home, the Atari 2600 brings interchangeable ROM cartridges to millions.",
+    "accentColor": "#f97316",
+    "curatorNotes": "Arcade cabinets generated billions of dollars in quarters, sparking moral panics, dedicated gaming parlors, and the founding of legendary studios like Namco, Taito, and Konami.",
+    "definingTech": ["Microprocessors (MOS 6502, Z80)", "Color Vector Displays", "ROM Cartridges", "Atari 2600 VCS"]
+  },
+  {
+    "id": "crash-8bit",
+    "name": "The 1983 Crash & 8-Bit Renaissance",
+    "subtitle": "1983 – 1988",
+    "startYear": 1983,
+    "endYear": 1988,
+    "description": "A flood of low-quality shovelware causes the North American console market to collapse by 97%. Nintendo rescues the industry with the Famicom/NES, establishing the modern game design playbook.",
+    "accentColor": "#ef4444",
+    "curatorNotes": "Nintendo introduced the Official Nintendo Seal of Quality, strict third-party publishing caps, and timeless character franchises led by Shigeru Miyamoto.",
+    "definingTech": ["Nintendo Entertainment System (NES)", "Famicom Disk System", "Scrolling Tile Engines", "Battery Backed Saves"]
+  },
+  {
+    "id": "16bit-wars",
+    "name": "The 16-Bit Era & Console Wars",
+    "subtitle": "1989 – 1993",
+    "startYear": 1989,
+    "endYear": 1993,
+    "description": "Sega launches 'Genesis does what Nintendon't' with Sonic the Hedgehog, triggering fierce commercial rivalry. The Game Boy dominates portables, while Street Fighter II revolutionizes fighting games.",
+    "accentColor": "#8b5cf6",
+    "curatorNotes": "Pixel art reached its zenith. Sound chips transitioned from primitive beeps to multi-channel stereo FM synthesis and sampled instruments (SNES SPC700).",
+    "definingTech": ["Motorola 68000", "Super Nintendo (SNES)", "Sega Genesis/Mega Drive", "Game Boy", "Mode 7 Scaling"]
+  },
+  {
+    "id": "3d-revolution",
+    "name": "The 3D Revolution & CD-ROM Era",
+    "subtitle": "1994 – 1999",
+    "startYear": 1994,
+    "endYear": 1999,
+    "description": "Sony enters gaming with the CD-based PlayStation, dethroning incumbent cartridge giants. Super Mario 64 invents the 3D camera grammar, Doom fuels PC LAN culture, and Final Fantasy VII proves games can rival Hollywood.",
+    "accentColor": "#3b82f6",
+    "curatorNotes": "Real-time 3D polygon pipelines replaced 2D sprites. Optical discs allowed gigabytes of cinematic FMV and orchestral audio, dramatically shifting game tone toward mature storytelling.",
+    "definingTech": ["Sony PlayStation", "Nintendo 64", "CD-ROM Storage", "3D Polygon Accelerators", "Dual Analog Sticks"]
+  },
+  {
+    "id": "sixth-gen",
+    "name": "Sixth Generation & Dawn of Online",
+    "subtitle": "2000 – 2005",
+    "startYear": 2000,
+    "endYear": 2005,
+    "description": "Sony's PlayStation 2 becomes the bestselling console in history. Microsoft enters with the Xbox and Xbox Live. Open-world games like GTA III change gaming forever, while World of Warcraft and Half-Life 2 reshape the PC landscape.",
+    "accentColor": "#10b981",
+    "curatorNotes": "Gaming became the highest-grossing entertainment sector, surpassing the Hollywood box office. Broadband internet transformed consoles into social multiplayer hubs.",
+    "definingTech": ["PlayStation 2 Emotion Engine", "Xbox Live & Broadband", "DVD-ROM", "Source Engine Physics", "Steam Platform"]
+  },
+  {
+    "id": "hd-indie",
+    "name": "HD Era & The Indie Explosion",
+    "subtitle": "2006 – 2012",
+    "startYear": 2006,
+    "endYear": 2012,
+    "description": "High definition visuals arrive with Xbox 360 and PS3, while Nintendo's motion-controlled Wii engages non-gamers globally. Digital distribution fosters an unprecedented indie gaming renaissance (Minecraft, Braid, Limbo).",
+    "accentColor": "#f59e0b",
+    "curatorNotes": "Budgets for AAA titles skyrocketed past $100M, while solo creators built global sensations. Mobile platforms (iOS and Android) democratized touchscreen gaming.",
+    "definingTech": ["High Definition (720p/1080p)", "Wii Motion Controls", "Indie Digital Stores", "Smartphones & App Store", "Shader Architecture"]
+  },
+  {
+    "id": "connected-era",
+    "name": "Connected Worlds & Cinematic Depth",
+    "subtitle": "2013 – 2019",
+    "startYear": 2013,
+    "endYear": 2019,
+    "description": "The PS4, Xbox One, and hybrid Nintendo Switch deliver sprawling open worlds with photo-realistic rendering and emotional narrative depth. Battle royales, live-service models, and esports break into global mainstream culture.",
+    "accentColor": "#ec4899",
+    "curatorNotes": "Games like The Witcher 3, Breath of the Wild, and Red Dead Redemption 2 raised bar for player freedom, reactive physics, and simulated ecosystems.",
+    "definingTech": ["Nintendo Switch Hybrid", "Physically Based Rendering (PBR)", "Cross-Platform Play", "SSD Storage Dawn", "Ray Tracing Foundations"]
+  },
+  {
+    "id": "modern-era",
+    "name": "The Modern Era & The Future",
+    "subtitle": "2020 – 2026+",
+    "startYear": 2020,
+    "endYear": 2026,
+    "description": "Hardware-accelerated ray tracing, instantaneous SSD load times, hand-held PC powerhouses (Steam Deck), and massive narrative achievements (Baldur's Gate 3, Elden Ring, Black Myth: Wukong) propel the medium toward its next golden age.",
+    "accentColor": "#6366f1",
+    "curatorNotes": "We stand in the current era: boundary-pushing simulation, photorealistic global illumination, portable PC ecosystems, and anticipation for monumental generation-defining releases.",
+    "definingTech": ["Hardware Ray Tracing (RTX)", "Ultra-High Speed Gen4/5 SSDs", "Steam Deck / Handheld PCs", "Unreal Engine 5 Nanite & Lumen", "Haptic Feedback"]
+  }
+]
