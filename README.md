@@ -131,14 +131,28 @@ python scripts/generate_data.py --live
 
 ## 🌐 Deploying to GitHub Pages
 
-This project is built from the ground up to be deployed on **GitHub Pages**:
+This project is built from the ground up to run as a static website on **GitHub Pages**:
 
-1. Push this repository to GitHub.
-2. In your repository on GitHub, navigate to **Settings** → **Pages**.
+### Option A: Automated Deployment via GitHub Actions (Recommended)
+1. Push this repository to your GitHub repository (branch `main`).
+2. On GitHub, go to your repository **Settings** → **Pages** (in the left sidebar).
 3. Under **Build and deployment**:
-   - Source: Select **GitHub Actions**.
-4. The workflow in `.github/workflows/deploy-pages.yml` will automatically build the static assets and deploy them whenever commits are pushed to `main`.
-5. Your exhibition will be live at `https://<your-username>.github.io/<repo-name>/`.
+   - **Source**: Select **GitHub Actions** from the dropdown (instead of "Deploy from a branch").
+4. Go to the **Actions** tab on your repository and verify the **Deploy Static Website to GitHub Pages** workflow runs and finishes.
+5. Your exhibition is live at `https://<your-username>.github.io/<repo-name>/`.
+
+### Option B: Deploying Pre-built `dist/` or `gh-pages` Branch
+If you prefer deploying a built folder:
+1. Run `npm run build` locally.
+2. In your repo **Settings** → **Pages**:
+   - **Source**: Select **Deploy from a branch**.
+   - **Branch**: Select your branch and set folder to `/ (root)` or `/dist`.
+   - Save changes.
+
+### Why "Nothing is appearing" Happens & How It Is Solved:
+1. **Repository Subpath Assets**: By default, Vite builds assets starting with `/assets/...`, which fails when GitHub Pages serves your site at `https://<username>.github.io/<repo-name>/`. We configured `base: './'` in `vite.config.ts`, ensuring all script and style links are relative (`./assets/...`) and load seamlessly under any repository name.
+2. **Jekyll Processing Bypass**: GitHub Pages enables Jekyll by default, which can block directories or files. We included `public/.nojekyll` so GitHub Pages serves raw static files directly.
+3. **SPA Fallback Routing**: We included `public/404.html` so direct page refreshes or subroutes don't trigger GitHub's default 404 page.
 
 ---
 
